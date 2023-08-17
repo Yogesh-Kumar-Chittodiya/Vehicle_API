@@ -1,3 +1,5 @@
+# Reference: https://www.pullrequest.com/blog/how-to-build-an-api-with-ruby-on-rails/
+
 class ApplicationController < ActionController::API
 
     def vehicles
